@@ -1,7 +1,6 @@
 #include <stdio.h>
 /**
- *using printf to print argument
- * main function -covers  main block
+ * main - main block
  * Return: 0
  */
 int main(void)
