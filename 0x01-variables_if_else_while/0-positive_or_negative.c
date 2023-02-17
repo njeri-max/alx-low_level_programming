@@ -2,11 +2,10 @@
 #include <time.h>
 #include <stdlib.h>
 /**
- *main-rep main block
- *Get a random number
- *print outcome positive negative or zero
- *Return 0
-*/
+ * main - Determine if a random number is positive, negative or zero.
+(*
+ * Return: 0 on success
+ */
 int main(void)
 {
 	int n;
