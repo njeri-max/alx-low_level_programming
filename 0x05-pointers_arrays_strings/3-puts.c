@@ -2,7 +2,7 @@
 /**
  * _puts - prints out a string
  * @str: character array string type pointer
- * description: only use _putchar 
+ * description: only use _putchar
  */
 void _puts(char *str)
 {
