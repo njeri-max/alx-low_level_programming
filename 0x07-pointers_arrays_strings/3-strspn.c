@@ -1,9 +1,9 @@
 #include "main.h"
 /**
- * _strspn - gets the length of a prefix substring
+ * _strspn - search a string for a set of bytes
  * @s: character pointer type
  * @accept: char array to compare bytes
- * Returns: number of bytes in initial segment `s`
+ * Return: number of bytes in initial segment `s`
  */
 unsigned int _strspn(char *s, char *accept)
 {
